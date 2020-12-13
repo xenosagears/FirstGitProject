@@ -1,4 +1,4 @@
 print("Welcome")
-print("HAHAHAHHA")
+print("lolol")
 
-#show some cool greetings!!!!
+#show some cool welcome!
